@@ -3,3 +3,11 @@ Branches:
 
 Project:
 1.Deploy the solar system with basic features as soon as possible.
+
+
+Students who donot have project!follow this
+1.clone the repo from github (syntax)
+2.remove the origin  -->git remote remove  origin
+3.create a new repo on  your own github
+4.establish a link between ur local and remote repo
+5. push all the codes to the remote repo that u just created!
