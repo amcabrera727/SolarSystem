@@ -15,5 +15,15 @@ public class Main {
         Xfact.color="green";
         Xfact.radius="1000000000km";
         Xfact.heat="309324934898kj";
+
+        FeatureStars FacX= new FeatureStars();
+        FacX.color="blue";
+
+     Planet2 Oslo = new Planet2();
+     Oslo.color="pink";
+        Oslo.size="0.00001cm";
+        Oslo.name="Ozhan";
+
+
     }
 }
